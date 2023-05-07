@@ -8,7 +8,7 @@ import numpy as np
 from PIL import Image
 from streamlit_star_rating import st_star_rating
 
-st.set_page_config(page_title="Prasanna Yelsangikar Resume", page_icon="./images/logo.png", layout="wide")
+st.set_page_config(page_title="Prasanna Yelsangikar Resume", page_icon="logo.png", layout="wide")
 
 
 def local_css(file_name):
@@ -159,14 +159,14 @@ with skills_col3:
 #################  Sidebar related #####################
 with st.sidebar:
     # opening the image
-    image = Image.open('./images/Profile_image.png')
+    image = Image.open('Profile_image.png')
     st.image(image)
     st.subheader("CONTACTS")
     st.sidebar.markdown(f'<div style="color:white;">➖➖➖➖➖➖➖➖➖➖➖➖</div>',
                     unsafe_allow_html=True)
     layout1, layout2=st.sidebar.columns((0.2,1.5))
     with layout1:
-        image1 = Image.open('./images/location.png')
+        image1 = Image.open('location.png')
         st.image(image1,width = 25)
 
     with layout2:
@@ -175,7 +175,7 @@ with st.sidebar:
 
     layout11, layout21=st.sidebar.columns((0.2,1.5))
     with layout11:
-        image11 = Image.open('./images/email.JPG')
+        image11 = Image.open('email.JPG')
         st.image(image11,width = 25)
     with layout21:
         st.markdown(f'<div style="color:white;"><a href="mailto:prasann.yelsangikar@gmail.com">Prasanna.yelsangikar@gmail.com</a></div>',
@@ -183,7 +183,7 @@ with st.sidebar:
 
     layout21, layout22=st.sidebar.columns((0.2,1.5))
     with layout21:
-        image13 = Image.open('./images/Phone.JPG')
+        image13 = Image.open('Phone.JPG')
         st.image(image13,width = 25)
     with layout22:
         st.markdown(f'<div style="color:white;">+91-xxxxxxxxxx</div>',
@@ -220,13 +220,13 @@ with st.sidebar:
                         unsafe_allow_html=True)
     #doc_download = open("./images/Resume.docx")
 
-    with open("./images/Resume.docx", "rb") as file:
-        btn = st.download_button(
-            label="Click to Download",
-            data=file,
-            file_name="Resume.docx",
-            mime="docx"
-        )
+    # with open("Resume.docx", "rb") as file:
+    #     btn = st.download_button(
+    #         label="Click to Download",
+    #         data=file,
+    #         file_name="Resume.docx",
+    #         mime="docx"
+    #     )
 
     # lan_layou, lan_layou1 = st.sidebar.columns((2, 0.1))
     # with lan_layou:
