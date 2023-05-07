@@ -1,0 +1,211 @@
+/* #253847 */
+
+.css-vk3wp9 {
+    position: relative;
+    top: 2px;
+    background-color: #253847;
+    z-index: 999991;
+    min-width: 255px;
+    max-width: 550px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+    font-color: white;
+    font-size: 14px;
+}
+
+.css-rbehlg {
+    width: 223px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.css-1b0udgb {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    margin-top: -11.625rem;
+    overflow-wrap: inherit;
+    padding: 10rem;
+}
+
+element {
+    color: white;
+}
+h3
+{
+color:white;
+}
+
+.css-1jkyitx {
+    width: 1073px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0rem;
+}
+.css-11k9pde {
+    width: 225px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.css-1fcdlhc .streamlit-expanderHeader:hover svg {
+    fill: #2C7F9D;
+}
+
+
+.css-fblp2m {
+    vertical-align: middle;
+    overflow: hidden;
+    color: inherit;
+    fill: #2C7F9D;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+.css-1544g2n h3 {
+    font-size: 1.56625rem;
+    font-weight: 600;
+    padding : 1rem 0rem 0rem;
+}
+.css-1544g2n {
+    padding: 0.5rem 1rem 1.5rem;
+}
+.css-ysnqb2 {
+    width: 100%;
+    padding: -6px;
+    min-width: auto;
+    max-width: initial;
+}
+.css-kr0h0f {
+    width: 956px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+element.style {
+    position: relative;
+    user-select: auto;
+    width: 241px;
+    height: 100%;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: 51px;
+}
+.css-10trblm {
+    flex: 1 1 0%;
+    margin-left: calc(15rem);
+}
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+
+.css-w5p2pu {
+    width: 894px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0rem;
+}
+
+
+.css-5rimss {
+    font-family: "Source Sans Pro", sans-serif;
+    margin-bottom: -0.1rem;
+    font-size: 17px;
+}
+hr {
+    margin: 0em 0px;
+    padding: 1px;
+    align: center;
+    color: inherit;
+    background-color: #253847;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-image: initial;
+    border-bottom: 0px solid rgba(49, 51, 63, 0.2);
+}
+
+.css-5rimss li {
+    margin: 0.4em 0px -0.8em 1.2em;
+    padding: 0px 0px 2px 0.5em;
+    font-size: 1rem;
+}
+
+.css-gvhdpn {
+    width: 896px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0.1rem;
+
+}
+
+.st-bx {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.st-c8:hover {
+    color: #2C7F9D;
+}
+
+.st-bg {
+    border-width: 0px;
+}
+
+.css-1ik1ikq {
+    width: calc(78.5% - -1rem);
+    flex: 1 5 calc(105.5% - 4rem);
+}
+
+.css-z5fcl4 {
+    width: 100%;
+    padding: 3rem 1rem 12rem;
+    min-width: auto;
+    max-width: initial;
+}
+
+.css-128wn4a {
+    width: 1024px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+
+.titles
+{
+font-size: 18px;
+}
+
+.css-ocqkz7 {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-flex: 2;
+    flex-grow: 1;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    gap: 0rem;
+}
